@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { StyleSheet, View, Text, TextInput, TouchableOpacity, Alert } from "react-native";
-import phoneNumberValidate from "phone-number-validation-tr";
+import phoneNumberValidate from "mob-phone-number-validation-tr";
 
 
 const Input = () =>{
